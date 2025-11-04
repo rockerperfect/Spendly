@@ -1,7 +1,7 @@
-# Fintrack GenZ Vision
+# Spendly
 
 ## Project Overview
-Fintrack GenZ Vision is a modern, full-stack personal finance management application designed for Gen Z users. It leverages AI-powered insights, secure authentication, and a responsive, accessible UI to help users track spending, set savings goals, and gain actionable financial feedback.
+Spendly is a modern, full-stack personal finance management application designed for Gen Z users. It leverages AI-powered insights, secure authentication, and a responsive, accessible UI to help users track spending, set savings goals, and gain actionable financial feedback.
 
 ## Getting Started
 To set up and run the project locally:
@@ -11,7 +11,7 @@ To set up and run the project locally:
 git clone <YOUR_GIT_URL>
 
 # Step 2: Navigate to the project directory
-cd fintrack-genz-vision
+cd Spendly
 
 # Step 3: Install dependencies
 npm install
